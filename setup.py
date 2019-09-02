@@ -11,7 +11,7 @@ setup(
     description='Python library that uses the rheological-dynamical analogy '\
                 '(RDA) to compute damage and effective buckling stress in '\
                 'prismatic shell structures.',
-    long_description=open('README').read(),
+    long_description=open('README.rst').read(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
