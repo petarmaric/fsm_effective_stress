@@ -42,7 +42,7 @@ Quick start::
 
 Please see the `fsm_damage_analysis`_ source code for more examples.
 
-.. _`fsm_damage_analysis`: https://bitbucket.org/petar/fsm_damage_analysis/src/
+.. _`fsm_damage_analysis`: https://github.com/petarmaric/fsm_damage_analysis
 
 Contribute
 ==========
@@ -52,6 +52,6 @@ If you find any bugs, or wish to propose new features `please let us know`_.
 If you'd like to contribute, simply fork `the repository`_, commit your changes
 and send a pull request. Make sure you add yourself to `AUTHORS`_.
 
-.. _`please let us know`: https://bitbucket.org/petar/fsm_effective_stress/issues/new
-.. _`the repository`: http://bitbucket.org/petar/fsm_effective_stress
-.. _`AUTHORS`: https://bitbucket.org/petar/fsm_effective_stress/src/default/AUTHORS
+.. _`please let us know`: https://github.com/petarmaric/fsm_effective_stress/issues/new
+.. _`the repository`: https://github.com/petarmaric/fsm_effective_stress
+.. _`AUTHORS`: https://github.com/petarmaric/fsm_effective_stress/blob/master/AUTHORS

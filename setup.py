@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='fsm_effective_stress',
     version='1.0.0',
-    url='https://bitbucket.org/petar/fsm_effective_stress',
+    url='https://github.com/petarmaric/fsm_effective_stress',
     license='BSD',
     author='Petar Maric',
     author_email='petarmaric@uns.ac.rs',
